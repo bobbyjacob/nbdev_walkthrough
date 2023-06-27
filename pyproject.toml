@@ -10,6 +10,7 @@ packages = [{include = "nbdev_walkthrough"}]
 python = "^3.10"
 nbdev = "^2.3.12"
 jupyterlab-quarto = "^0.2.7"
+ipykernel = "^6.23.3"
 
 
 [build-system]

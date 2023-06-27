@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://bobbyjacob.github.io',
                 'git_url': 'https://github.com/bobbyjacob/nbdev_walkthrough',
                 'lib_path': 'nbdev_walkthrough'},
-  'syms': {'nbdev_walkthrough.core': {'nbdev_walkthrough.core.foo': ('core.html#foo', 'nbdev_walkthrough/core.py')}}}
+  'syms': { 'nbdev_walkthrough.core': {'nbdev_walkthrough.core.foo': ('core.html#foo', 'nbdev_walkthrough/core.py')},
+            'nbdev_walkthrough.newname': { 'nbdev_walkthrough.newname.foo': ('newname.html#foo', 'nbdev_walkthrough/newname.py'),
+                                           'nbdev_walkthrough.newname.say_hello': ( 'newname.html#say_hello',
+                                                                                    'nbdev_walkthrough/newname.py')}}}
