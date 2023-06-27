@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_walkthrough"
+  site-url: "https://bobbyjacob.github.io/nbdev_walkthrough"
+  description: "Walkthrough nbdev installation and usage guide."
+  repo-branch: main
+  repo-url: "https://github.com/bobbyjacob/nbdev_walkthrough"
